@@ -67,5 +67,3 @@ I have compared multiple preprocessing pipelines for sentiment classification an
 
 ## Author
 Asad Anwer Ali Andani
-
-Asad
